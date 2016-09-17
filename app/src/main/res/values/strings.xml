@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Code Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">Add Name</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_add">Add</string>
+    <string name="message_name_added">Name added in the list</string>
+    <string name="message_loading">Loading...</string>
+    <string name="message_error_invalid_input">Invalid Input, use First-Name,Last-Name </string>
+</resources>
